@@ -1,5 +1,4 @@
 # SpaceX-Falcon-9-First-Stage-Landing-Prediction
-![SpaceX Falcon 9](images/falcon9.png)
 
 ## Overview
 This project aims to predict the success of the Falcon 9 rocket's first-stage landing using historical data from SpaceX launches. The success of this landing is crucial as it allows for reusability, which significantly reduces the cost of space travel.
@@ -88,6 +87,3 @@ The best model achieved an accuracy of **X%** in predicting the success of a Fal
 
 ## Conclusion
 The project successfully demonstrates how machine learning models can be used to predict the outcome of SpaceX's first-stage landings. Through data wrangling, EDA, and predictive modeling, we were able to achieve a high level of accuracy in the predictions.
----
-
-Feel free to replace `X%` with the actual accuracy from your model results, and adjust the content based on the exact results from your project. Let me know if you'd like to make further modifications!
